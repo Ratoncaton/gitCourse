@@ -17,5 +17,8 @@ def fibo2(c, d):
 def main():
     fibo1(0,1)
 
+def nigger():
+    pass
+
 if __name__ == "__main__":
     main()
